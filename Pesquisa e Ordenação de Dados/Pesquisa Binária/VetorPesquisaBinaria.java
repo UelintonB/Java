@@ -42,11 +42,11 @@ public class VetorPesquisaBinaria {
     } 
     
     public DadosPesquisaBinaria getValorByID (int id){
-        return vetorDados[id];// obtem/retorna registro/elemento que está na posição: id
+        return vetorDados[id]; // retorna ponteiro(NãO), digo referência do elemento que está na posição id
     }
         
     public void setValorByID (int id, DadosPesquisaBinaria objDados){
-        this.vetorDados[id] = objDados;// atribui o registro/elemento objDados ao indice/posição: id
+        this.vetorDados[id] = objDados; //Atribui o ponteiro(NãO), digo referência recebida: objDados na posição: id
     }     
   
     public void decrementaNumElementosInseridos(){
@@ -57,7 +57,4 @@ public class VetorPesquisaBinaria {
         numElementosInseridos++;
     }
     
-    public void setValorPosicaoLivre(int id){
-        this.vetorDados[id].setIdade(-1);
-    }
 }
