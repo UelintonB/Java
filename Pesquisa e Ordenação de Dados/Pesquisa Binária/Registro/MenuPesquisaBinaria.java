@@ -38,7 +38,7 @@ public class MenuPesquisaBinaria {
             System.out.println("|--------**Patrick-Guerra**-----------|");
             System.out.println("|Pesquisa Binaria [NOME|RENDA];[IDADE]|");
             System.out.println("|-------------------------------------|");
-            System.out.println("|1- Cadastrar de Dados                |");
+            System.out.println("|1- Cadastrar Dados                   |");
             System.out.println("|2- Ordenar por Nome                  |");
             System.out.println("|3- Ordenar por Renda                 |");
             System.out.println("|4- Pesquisar por Nome                |");
