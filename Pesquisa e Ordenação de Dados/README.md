@@ -1,12 +1,12 @@
 # Projetos Desenvolvidos em Java
 
-## Disciplina: Introdução a Inteligencia Artificial (2018)
+## Disciplina: Pesquisa e Ordenação de Dados (2016)
 
 ## Softwares e Tecnologias Utilizados
 
 ```
-NetBeans IDE = 8.2
-Java SE Development Kit >= 8 (JDK 8)
+NetBeans IDE = 8.1
+Java SE Development Kit >= 7 (JDK 7)
 ```
 
 ## Autor
